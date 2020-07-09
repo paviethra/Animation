@@ -12,7 +12,7 @@ body{
     font-weight: 100;
     font-size: 15px;    
 }
-@media screen and (min-width: 992px){
+@media screen and (min-width: 600px){
 header{
     background: #7D12E8 ;
     color: white;
